@@ -1,0 +1,3106 @@
+[
+    {
+        "date": "Thursday, 2nd January 2020",
+        "annotations": [
+            "St Basil the Great and St Gregory of Nazianzus, bishops, teachers of the faith, 379, 390"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Perth College Girls' Choir, Australia",
+                "music": [
+                    "Responses: plainsong",
+                    "Canticles: Dyson in C minor",
+                    "Anthem: Ruutel A New Year Carol"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 3rd January 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of St Mary's Church, Wimbledon",
+                "music": [
+                    "Responses: Smith",
+                    "Canticles: Gibbons Short Service",
+                    "Anthem: arr Pearsall In dulci jubilo"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 4th January 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Responses: Radcliffe",
+                    "Canticles: Brewer in E flat",
+                    "Anthem: Howells Sing Lullaby",
+                    "Voluntary: Daquin Noël VI"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 5th January 2020",
+        "annotations": [
+            "Second Sunday of Christmas"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of St Peter's Cathedral, Adelaide, Australia",
+                "music": [
+                    "Setting: Dove Missa brevis",
+                    "Motet: Gjeilo Ubi caritas et amor",
+                    "Voluntary: Buxtehude Praeludium in D BuxWV 139"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Epiphany of Our Lord",
+                "location": "Quire",
+                "notes": "sung by the Choir of St Peter's Cathedral, Adelaide, Australia",
+                "music": [
+                    "Responses: Hunt",
+                    "Canticles: Stanford in G",
+                    "Anthem: Dove The Three Kings",
+                    "Voluntary: Bach Wie schön leuchtet der Morgenstern BWV 739"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 6th January 2020",
+        "annotations": [
+            "THE EPIPHANY OF OUR LORD"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Setting: Byrd Mass for three voices",
+                    "Motet: Byrd Vidimus stellam",
+                    "Voluntary: Langlais Fête"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 7th January 2020",
+        "annotations": [
+            "St Edward the Confessor, king, 1066"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Moore Behold, O God our defender",
+                    "Responses: plainsong",
+                    "Canticles: Palestrina Magnificat tertii toni",
+                    "Quinney Nunc dimittis",
+                    "Anthem: Sheppard Justi in perpetuum vivent"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 9th January 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: plainsong Hostis Herodes impie",
+                    "Responses: plainsong",
+                    "Canticles: Moore First Service",
+                    "Anthem: Moore Lo, that is a marvellous change"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 10th January 2020",
+        "annotations": [
+            "William Laud, Archbishop of Canterbury, 1645"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Handl Omnes de Saba venient",
+                    "Responses: plainsong",
+                    "Canticles: Monte Magnificat octavi toni",
+                    "Reid Nunc dimittis tertii toni",
+                    "Anthem: Palestrina Tui sunt caeli"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 11th January 2020",
+        "annotations": [
+            "Mary Slessor, missionary in West Africa, 1915"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Baptism of Christ",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Mendelssohn Herr Gott, du bist unsre Zuflucht",
+                    "Responses: Radcliffe",
+                    "Canticles: Wood Collegium Regale",
+                    "Anthem: Mendelssohn When Jesus our Lord",
+                    "Voluntary: Mendelssohn Prelude and Fugue in D minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 12th January 2020",
+        "annotations": [
+            "The Baptism of Christ - First Sunday of Epiphany"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Mendelssohn Herr Gott, du bist unsre Zuflucht",
+                    "Responses: Radcliffe",
+                    "Canticles: Gibbons Short Service",
+                    "Voluntary: Hindemith Lebhaft from Sonata II"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Byrd Mass for five voices",
+                    "Motet: Croce In spiritu humilitatis",
+                    "Voluntary: Bach Christ unser Herr zum Jordan kam BWV 684"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Mendelssohn Herr Gott, du bist unsre Zuflucht",
+                    "Responses: Radcliffe",
+                    "Canticles: Leighton Magdalen College Service",
+                    "Anthem: Dove Seek him that maketh the seven stars",
+                    "Voluntary: Dubois Fiat lux"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 13th January 2020",
+        "annotations": [
+            "St Hilary, Bishop of Poitiers, teacher of the faith, 367",
+            "George Fox, founder of the Society of Friends (Quakers), 1691"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "Introit: plainsong Lucis Creator optime",
+                    "Responses: plainsong",
+                    "Canticles: Robinson in C",
+                    "Anthem: arr Parnell Rejoice and be merry"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 14th January 2020",
+        "annotations": [
+            "Richard Meux Benson, priest, founder of the Society of St John the Evangelist, 1915"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Morley First Service",
+                    "Anthem: Bull Almighty God, which by the leading of a star"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 16th January 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Wood in E flat No 2",
+                    "Anthem: Cornelius Die Könige"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 17th January 2020",
+        "annotations": [
+            "St Antony of Egypt, hermit, abbot, 356",
+            "Charles Gore, bishop, Canon of Westminster, 1894–1902, 1932"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Gibbons Short Service",
+                    "Anthem: Poulenc Videntes stellam"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 18th January 2020",
+        "annotations": [
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Noble in B minor",
+                    "Anthem: Wesley Ascribe unto the Lord",
+                    "Voluntary: Harwood Maestoso from Sonata in C sharp minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 19th January 2020",
+        "annotations": [
+            "Second Sunday of Epiphany",
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Ireland in F",
+                    "Voluntary: Litaize Epiphanie"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Victoria Missa Vidi speciosam",
+                    "Motet: Duruflé Ubi caritas et amor",
+                    "Voluntary: Duruflé Prélude et fugue sur le nom d'Alain Op 7"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis O nata lux de lumine",
+                    "Responses: Byrd",
+                    "Canticles: Wesley in E",
+                    "Anthem: Wesley Thou wilt keep him in perfect peace",
+                    "Voluntary: Bach Toccata in E BWV 566"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 20th January 2020",
+        "annotations": [
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Byrd Tui sunt caeli",
+                    "Responses: plainsong",
+                    "Canticles: Ramsey Short Service",
+                    "Anthem: Purcell Blessed is he that considereth the poor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 21st January 2020",
+        "annotations": [
+            "Week of Prayer for Christian Unity",
+            "St Agnes, child-martyr at Rome, 304"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Batten Lord, we beseech thee",
+                    "Responses: Martin",
+                    "Canticles: Tomkins Fifth Service",
+                    "Anthem: Gibbons See, see the Word is incarnate"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 23rd January 2020",
+        "annotations": [
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Batten Lord, we beseech thee",
+                    "Responses: Martin",
+                    "Canticles: Watson in E",
+                    "Anthem: Elgar Light of the world"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 24th January 2020",
+        "annotations": [
+            "Week of Prayer for Christian Unity",
+            "Francis de Sales, teacher of the faith, 1622"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "First Evensong of the Conversion of St Paul",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for Australia",
+                "music": [
+                    "Introit: Batten Lord, we beseech thee",
+                    "Responses: Smith",
+                    "Canticles: Tomkins First Service",
+                    "Anthem: Bennett These Three"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 25th January 2020",
+        "annotations": [
+            "The Conversion of St Paul",
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Viadana Exultate justi in Domino",
+                    "Responses: Martin",
+                    "Canticles: Walton Chichester Service",
+                    "Anthem: Bairstow Though I speak with the tongues of men",
+                    "Voluntary: Nicolai arr Liszt Ecclesiastical Festival Overture on Ein feste Burg ist unser Gott Op 31"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 26th January 2020",
+        "annotations": [
+            "Third Sunday of Epiphany"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Batten Lord, we beseech thee",
+                    "Responses: Martin",
+                    "Canticles: Stanford in C",
+                    "Voluntary: Elgar Allegretto from Sonata in G Op 28"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Tye Missa Euge bone",
+                    "Motet: Tallis O sacrum convivium",
+                    "Voluntary: Bach Toccata in F BWV 540i"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Batten Lord, we beseech thee",
+                    "Responses: Martin",
+                    "Canticles: Howells in G",
+                    "Anthem: Elgar Great is the Lord",
+                    "Voluntary: Mendelssohn Allegro con brio from Sonata in B flat Op 65 no 4"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 27th January 2020",
+        "annotations": [
+            "The Liberation of Auschwitz-Birkenau, 1945"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "Introit: Vaughan Williams The Call",
+                    "Responses: plainsong",
+                    "Canticles: Martin Westminster Service",
+                    "Anthem: Mendelssohn Lift thine eyes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 28th January 2020",
+        "annotations": [
+            "St Thomas Aquinas, teacher of the faith, 1274"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for India",
+                "music": [
+                    "Introit: Clucas Keep me as the apple of an eye",
+                    "Responses: Tomkins",
+                    "Canticles: Palestrina Magnificat quarti toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Anthem: Victoria O doctor optime"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 30th January 2020",
+        "annotations": [
+            "Charles I, king, martyr, 1649"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Clucas Keep me as the apple of an eye",
+                    "Responses: Tomkins",
+                    "Canticles: Stanford in B flat",
+                    "Anthem: Ramsey How are the mighty fallen"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 31st January 2020",
+        "annotations": [
+            "John Bosco, priest, founder of the Salesian Order, 1888"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by the Honorary Consul for Nauru",
+                "music": [
+                    "Introit: Clucas Keep me as the apple of an eye",
+                    "Responses: Tomkins",
+                    "Canticles: Farrant in A minor",
+                    "Anthem: Byrd Prevent us, O Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 1st February 2020",
+        "annotations": [
+            "Esther John, martyr, 1960"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Presentation of Christ in the Temple",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Eccard When to the temple Mary went",
+                    "Responses: Tomkins",
+                    "Canticles: Tavener Collegium Regale",
+                    "Anthem: Tallis Videte miraculum",
+                    "Voluntary: Messiaen Les Enfants de Dieu from La Nativité du Seigneur"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 2nd February 2020",
+        "annotations": [
+            "Fourth Sunday of Epiphany",
+            "CANDLEMAS: The Presentation of Christ in the Temple"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Blessing of Candles and Sung Eucharist",
+                "location": "Quire",
+                "notes": "attended by The Queen's Scholars of Westminster School",
+                "music": [
+                    "Setting: Rheinberger Mass in E flat",
+                    "Motet: Victoria Senex puerum portabat",
+                    "Canticle: Gabrieli Nunc dimittis à 14",
+                    "Voluntary: Buxtehude Mit Fried und Freud ich fahr dahin BuxWV 76"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Eccard When to the temple Mary went",
+                    "Responses: Tomkins",
+                    "Canticles: Howells Collegium Regale",
+                    "Anthem: Moore Lo! God is here",
+                    "Voluntary: Cox Creation Dance"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 3rd February 2020",
+        "annotations": [
+            "St Anskar, missionary in Denmark and Sweden, 865"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Muhly Oculi omnium",
+                    "Responses: plainsong",
+                    "Canticles: Jackson Truro Service",
+                    "Anthem: Martin Justorum animae"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 4th February 2020",
+        "annotations": [
+            "Manche Masemola, martyr, 1928"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by the Acting High Commissioner for Sri Lanka",
+                "music": [
+                    "Introit: Farrant Lord, for thy tender mercy's sake",
+                    "Responses: Rose",
+                    "Canticles: Byrd Second Service",
+                    "Anthem: Monteverdi Cantate Domino"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 6th February 2020",
+        "annotations": [
+            "The Accession of Her Majesty The Queen, 1952"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for New Zealand",
+                "music": [
+                    "The National Anthem",
+                    "Responses: Gibbons and Guest",
+                    "Canticles: Brewer in D",
+                    "Anthem: Byrd O Lord, make thy servant Elizabeth"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 7th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for Grenada",
+                "music": [
+                    "Introit: Farrant Lord, for thy tender mercy's sake",
+                    "Responses: Rose",
+                    "Canticles: Byrd Third Service",
+                    "Anthem: Moore O sing unto the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 8th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Lord, for thy tender mercy's sake",
+                    "Responses: Rose",
+                    "Canticles: Sumsion in G",
+                    "Anthem: Mendelssohn Hear my prayer",
+                    "Voluntary: Mendelssohn Allegro, Chorale, and Fugue"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 9th February 2020",
+        "annotations": [
+            "Third Sunday before Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: attr Farrant Lord, for thy tender mercy's sake",
+                    "Responses: Rose",
+                    "Canticles: Vaughan Williams Te Deum in G",
+                    "Schütz Jauchzet dem Herren",
+                    "Voluntary: Vaughan Williams Prelude and Fugue in C minor"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Byrd Mass for four voices",
+                    "Motet: Byrd Ave verum corpus",
+                    "Voluntary: Buxtehude Praeludium in F BuxWV 145"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: attr Farrant Lord, for thy tender mercy's sake",
+                    "Responses: Rose",
+                    "Canticles: Blair in B minor",
+                    "Anthem: Leighton Let all the world",
+                    "Voluntary: Elgar arr Martin Imperial March Op 32"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 10th February 2020",
+        "annotations": [
+            "St Scholastica, abbess, c 543"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "Introit: plainsong Te lucis ante terminum",
+                    "Responses: plainsong",
+                    "Canticles: Moore Second Service",
+                    "Anthem: Harris King of glory, King of peace"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 11th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Weelkes Sixth Service",
+                    "Anthem: Gibbons Sing unto the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 13th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Blow in F",
+                    "Anthem: Blow God is our hope and strength"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 14th February 2020",
+        "annotations": [
+            "St Cyril and St Methodius, missionaries to the Slavs, 865, 885",
+            "Obit of Richard II, King of England, 1400"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Victoria Magnificat primi toni à 4",
+                    "Tye Nunc dimittis",
+                    "Anthem: Byrd Praise our Lord, all ye Gentiles"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 15th February 2020",
+        "annotations": [
+            "St Sigfrid, bishop, Apostle of Sweden, 1045",
+            "Thomas Bray, founder of SPCK and SPG, 1730"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Purcell in G minor",
+                    "Anthem: Purcell I was glad",
+                    "Voluntary: Purcell Voluntary in G"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 16th February 2020",
+        "annotations": [
+            "Second Sunday before Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Britten Festival Te Deum",
+                    "Britten Jubilate Deo in C",
+                    "Voluntary: Chilcott Sun Dance"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Dove Missa brevis",
+                    "Motet: Guerrero O sacrum convivium",
+                    "Voluntary: Dupré Toccata from Symphonie II"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Tallis In manus tuas",
+                    "Responses: Morley",
+                    "Canticles: Walmisley in D minor",
+                    "Anthem: Gardiner Evening Hymn",
+                    "Voluntary: Bridge Adagio in E H63"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 17th February 2020",
+        "annotations": [
+            "Janani Luwum, Archbishop of Uganda, martyr, 1977"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Poulenc O mes très chers frères",
+                    "Responses: plainsong",
+                    "Canticles: Clucas Westminster Service",
+                    "Anthem: Fauré Cantique de Jean Racine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 18th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars; attended by HE The High Commissioner for The Gambia",
+                "music": [
+                    "Introit: Poulenc O mes très chers frères",
+                    "Responses: plainsong",
+                    "Canticles: Batten Short Service",
+                    "Anthem: Tomkins Thou art my King, O God"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 20th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Poulenc O mes très chers frères",
+                    "Responses: plainsong",
+                    "Canticles: Sheppard First Service",
+                    "Anthem: Byrd Teach me, O Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 21st February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars; attended by HE the High Commissioner for St Lucia",
+                "music": [
+                    "Introit: Poulenc O mes très chers frères",
+                    "Responses: plainsong",
+                    "Canticles: Palestrina Magnificat sexti toni",
+                    "Quinney Nunc dimittis tertii toni",
+                    "Anthem: Byrd Constitues eos principes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 22nd February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Poulenc Tout puissant",
+                    "Responses: Tallis",
+                    "Canticles: Ward First Service",
+                    "Anthem: Tallis Dereinquit impius",
+                    "Voluntary: Bach Prelude and Fugue in E minor BWV 533"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 23rd February 2020",
+        "annotations": [
+            "Sunday next before Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Poulenc Tout puissant",
+                    "Responses: Tallis",
+                    "Canticles: Tomkins Fifth Service",
+                    "Voluntary: Bach Kyrie, Gott heiliger Geist BWV 671"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Setting: Taverner Mean Mass",
+                    "Motet: Byrd O salutaris hostia",
+                    "Voluntary: Buxtehude Praeludium in C BuxWV 137"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Poulenc Tout puissant",
+                    "Responses: Tallis",
+                    "Canticles: Howells in E",
+                    "Anthem: Howells My eyes for beauty pine",
+                    "Voluntary: Ireland Capriccio"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 24th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers; attended by the Acting High Commissioner for Guyana",
+                "music": [
+                    "Introit: Vaughan Williams The Call",
+                    "Responses: plainsong",
+                    "Canticles: Vaughan Williams in D",
+                    "Anthem: Vaughan Williams The Song of the Tree of Life"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 25th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by a representative of the High Commissioner for Brunei Darussalam",
+                "music": [
+                    "Introit: Loosemore O Lord, increase my faith",
+                    "Responses: Gibbons and Barnard",
+                    "Canticles: Gibbons Second Service",
+                    "Anthem: Tomkins O sing unto the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 26th February 2020",
+        "annotations": [
+            "Ash Wednesday"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist with the Imposition of Ashes",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Byrd Mass for four voices",
+                    "Motets: Allegri Miserere mei Deus",
+                    "Tallis Absterge Domine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 28th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Loosemore O Lord, increase my faith",
+                    "Responses: Gibbons and Barnard",
+                    "Canticles: Victoria Magnificat octavi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Anthem: Tallis In jejunio et fletu"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 29th February 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Loosemore O Lord, increase my faith",
+                    "Responses: Gibbons and Barnard",
+                    "Canticles: Leighton Second Service",
+                    "Anthem: Wesley Wash me throughly",
+                    "Voluntary: Leighton Prelude on Rockingham"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 1st March 2020",
+        "annotations": [
+            "First Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Loosemore O Lord, increase my faith",
+                    "Responses: Gibbons and Barnard",
+                    "Canticles: Bairstow The Lamentation",
+                    "Stanford Benedictus in C"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Rheinberger Mass in E flat",
+                    "Motet: Philips O quam suavis est",
+                    "Voluntary: Schumann Fugue on BACH Op 60 no 1"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Loosemore O Lord, increase my faith",
+                    "Responses: Gibbons and Barnard",
+                    "Canticles: Blair in B minor",
+                    "Anthem: Purcell Jehovah quam multi sunt hostes mei",
+                    "Voluntary: Bach Fantasia in C minor BWV 562"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 2nd March 2020",
+        "annotations": [
+            "St David, patron of Wales, c 601"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: Gabrieli Beatus vir",
+                    "Responses: plainsong",
+                    "Canticles: Sumsion in G",
+                    "Anthem: Vaughan Williams Love bade me welcome"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 3rd March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Wise in E flat",
+                    "Anthem: Weir His Mercy Endureth For Ever"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 5th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for Ghana",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Marenzio Magnificat octavi toni",
+                    "Tye Nunc dimittis",
+                    "Anthem: Palestrina Peccantem me quotidie"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 6th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Morley Short Service",
+                    "Anthem: Gibbons O Lord, in thy wrath"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 7th March 2020",
+        "annotations": [
+            "St Perpetua, St Felicity, and their companions, martyrs at Carthage, 203"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Schütz Deutsches Magnificat",
+                    "Schütz Nunc dimittis",
+                    "Anthem: Martin Behold now, praise the Lord",
+                    "Voluntary: Bairstow Andante serioso, ma con moto from Sonata in E flat"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 8th March 2020",
+        "annotations": [
+            "Second Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Lloyd Benedicite omnia opera",
+                    "MacMillan Benedictus",
+                    "Voluntary: Reger Benedictus Op 59 no 9"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Setting: Vaughan Williams Mass in G minor",
+                    "Motet: Palestrina Super flumina Babylonis",
+                    "Voluntary: Harris Fantasy on 'Babylon's Streams'"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Farrant Hide not thou thy face from us, O Lord",
+                    "Responses: Ayleward",
+                    "Canticles: Rubbra in A flat",
+                    "Anthem: Brahms Geistliches Lied",
+                    "Voluntary: Whitlock Scherzetto from Sonata in C minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 10th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars; attended by HE The High Commissioner for Mauritius",
+                "music": [
+                    "Introit: plainsong Audi benigne Conditor",
+                    "Responses: plainsong",
+                    "Canticles: Monte Magnificat septimi toni",
+                    "Vento Nunc dimittis quarti toni",
+                    "Anthem: Mouton Salva nos Domine vigilantes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 12th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: plainsong Audi benigne Conditor",
+                    "Responses: plainsong",
+                    "Canticles: Soriano Magnificat primi toni",
+                    "plainsong Nunc dimittis",
+                    "Anthem: Palestrina O bone Jesu"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 13th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Introit: plainsong Audi benigne Conditor",
+                    "Responses: plainsong",
+                    "Canticles: Tye Short Service",
+                    "Anthem: White Christe qui lux es et dies"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 14th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "part of the Chorister Experience Day",
+                "music": [
+                    "Introit: Vaughan Williams The Call",
+                    "Repsonses: Smith",
+                    "Canticles: Stanford in B flat",
+                    "Anthem: Parry arr Rutter Dear Lord and Father of mankind",
+                    "Voluntary: Harris Flourish for an Occasion"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 15th March 2020",
+        "annotations": [
+            "Third Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "10.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Barcrofte O almighty God",
+                    "Responses: Smith",
+                    "Canticles: Purcell in B flat",
+                    "Voluntary: Bach Aus tiefer Not schrei ich zu dir BWV 686"
+                ]
+            },
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "attended by The Queen's Scholars of Westminster School",
+                "music": [
+                    "Setting: Martin Mass for double choir",
+                    "Motet: Byrd Miserere mei Deus",
+                    "Voluntary: Dupré Cortège et Litanie"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Barcrofte O almighty God",
+                    "Responses: Smith",
+                    "Canticles: Purcell in G minor",
+                    "Anthem: Purcell Lord, how long wilt thou be angry"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 16th March 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "Introit: plainsong Audi benigne Conditor",
+                    "Responses: plainsong",
+                    "Canticles: Martin Westminster Service",
+                    "Anthem: Handel Wash me throughly"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 17th March 2020",
+        "annotations": [
+            "St Patrick, missionary, patron of Ireland, c 460"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Introit: Viadana Exsultate justi in Domino",
+                    "Responses: Radcliffe",
+                    "Canticles: Ireland in F",
+                    "Anthem: Victoria Ecce sacerdos magnus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 2nd August 2020",
+        "annotations": [
+            "Eighth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Setting: plainsong Mass VIII 'De angelis'"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 9th August 2020",
+        "annotations": [
+            "Ninth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Setting: plainsong Mass VIII 'De angelis'",
+                    "Motets: Bach Qui tollis peccata mundi (Mass in G minor)",
+                    "Franck Panis angelicus",
+                    "Voluntary: Bach Prelude and Fugue in C BWV 545"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 16th August 2020",
+        "annotations": [
+            "Tenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Setting: Byrd Mass for three voices",
+                    "Motets: Byrd Prevent us, O Lord",
+                    "Byrd O sacrum convivium",
+                    "Voluntary: Bach Toccata in C BWV 564i"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Responses: Byrd and Quinney",
+                    "Canticles: Tye Short Service",
+                    "Anthem: Byrd O Lord, arise",
+                    "Postlude: Duruflé Prelude (Suite Op 5)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 23rd August 2020",
+        "annotations": [
+            "Eleventh Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Setting: Sheppard The Frences Mass",
+                    "Motets: Sheppard The Lord's Prayer",
+                    "Sheppard Rejoice in the Lord always",
+                    "Voluntary: Bach Prelude and Fugue in G BWV 541"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Responses: Moore",
+                    "Canticles: Guerrero Magnificat quinti toni",
+                    "Viadana Nunc dimittis tertii toni",
+                    "Anthem: Tallis In pace in idipsum"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 30th August 2020",
+        "annotations": [
+            "Twelfth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Guerrero Missa Saeculorum Amen",
+                    "Tomkins Great and marvellous are thy works",
+                    "Gabrieli O sacrum convivium",
+                    "Bach Prelude and Fugue in E BWV 566"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Byrd Responses",
+                    "Victoria Magnificat septimi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Tallis Laudate Dominum",
+                    "Stravinsky Berceuse and Finale (The Firebird)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 6th September 2020",
+        "annotations": [
+            "Thirteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis Mass for four voices",
+                    "Tallis A new commandment",
+                    "Byrd Venite comedite",
+                    "Buxtehude Praeludium in D BuxWV 139"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Tallis Responses",
+                    "Victoria Magnificat tertii toni",
+                    "Vento Nunc dimittis quarti toni",
+                    "Monte Ecce ego mitto vos",
+                    "Bruhns Praeludium in E minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 7th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Mundy Magnificat secundi toni",
+                    "Reid Nunc dimittis tertii toni",
+                    "White Christe qui lux es et dies"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 8th September 2020",
+        "annotations": [
+            "The Birth of the Blessed Virgin Mary"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Taverner Magnificat for four voices",
+                    "plainsong Nunc dimittis",
+                    "Victoria Salve Regina I"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 10th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Byrd Responses",
+                    "Marenzio Magnificat octavi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Purcell O God, thou art my God"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 11th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Byrd Responses",
+                    "Tomkins First Service",
+                    "Tallis If ye love me"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 12th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Byrd Responses",
+                    "Purcell in B flat",
+                    "Palestrina Sicut cervus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 13th September 2020",
+        "annotations": [
+            "Fourteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "",
+                "music": [
+                    "Byrd Mass for four voices",
+                    "Palestrina Sicut cervus",
+                    "Tallis If ye love me",
+                    "Bach Prelude and Fugue in A BWV 536"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong with Installation of Choristers",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Byrd Responses",
+                    "Marenzio Magnificat octavi toni",
+                    "Tye Nunc dimittis",
+                    "MacMillan A New Song",
+                    "Elgar Allegro maestoso (Sonata in G Op 28)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 14th September 2020",
+        "annotations": [
+            "Holy Cross Day"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Anerio Magnificat octavi toni",
+                    "Lassus Nunc dimittis tertii toni",
+                    "Anerio Christus factus est"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 15th September 2020",
+        "annotations": [
+            "St Cyprian, Bishop of Carthage, martyr, 258",
+            "Anniversary of the Battle of Britain, 1940"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Smith Responses",
+                    "Hooper Short Service",
+                    "Farrant Lord, for thy tender mercy's sake"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 17th September 2020",
+        "annotations": [
+            "Hildegard, Abbess of Bingen, visionary, 1179"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Smith Responses",
+                    "Dyson in F",
+                    "Pitoni Cantate Domino"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 18th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Choristers",
+                "music": [
+                    "plainsong Responses",
+                    "plainsong Magnificat and Nunc dimittis",
+                    "Purcell Evening Hymn"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 19th September 2020",
+        "annotations": [
+            "St Theodore of Tarsus, Archbishop of Canterbury, 690"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Smith Responses",
+                    "Palestrina Magnificat primi toni à 8",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Hooper Behold, it is Christ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 20th September 2020",
+        "annotations": [
+            "Fifteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Smith Responses",
+                    "Byrd Second Service",
+                    "Gibbons O clap your hands together"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 21st September 2020",
+        "annotations": [
+            "St Matthew, apostle and evangelist"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Guerrero Magnificat quinti toni",
+                    "Ortiz Nunc dimittis tertii toni",
+                    "Victoria Christe redemptor omnium II"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 22nd September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Radcliffe Responses",
+                    "Wise in E flat",
+                    "Parry My soul, there is a country"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 24th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Radcliffe Responses",
+                    "Gibbons Short Service",
+                    "Vaughan Williams O taste and see"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 25th September 2020",
+        "annotations": [
+            "Lancelot Andrewes, Bishop of Winchester, spiritual writer, Dean of Westminster, 1601–05, 1626"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer; sung by the Choristers",
+                "music": [
+                    "plainsong Responses",
+                    "Moore Second Service",
+                    "Hurford Litany to the Holy Spirit"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 26th September 2020",
+        "annotations": [
+            "Wilson Carlile, founder of the Church Army, 1942"
+        ],
+        "services": [
+            {
+                "time": "4.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Radcliffe Responses",
+                    "Schütz Deutsches Magnificat",
+                    "Tye Nunc dimittis",
+                    "Palestrina Dextera Domini"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 27th September 2020",
+        "annotations": [
+            "Sixteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "",
+                "music": [
+                    "Mozart Missa brevis in C K220 'Spatzenmesse'",
+                    "Palestrina Dextera Domini",
+                    "Mozart Ave verum corpus",
+                    "Bach arr Bovet Allegro (Concerto in B minor BWV 1065)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Radcliffe Responses",
+                    "Stanford in G",
+                    "Parry Never weather-beaten sail"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 28th September 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Palestrina Stetit angelus",
+                    "plainsong Responses",
+                    "Palestrina Magnificat primi toni à 4",
+                    "Palestrina Nunc dimittis tertii toni à 4",
+                    "Gabrieli Angeli archangeli"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 29th September 2020",
+        "annotations": [
+            "ST MICHAEL AND ALL ANGELS"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Monteverdi Mass for four voices",
+                    "Dering Factum est silentium",
+                    "Vaughan Williams O taste and see",
+                    "Duruflé Toccata (Suite Op 5)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 1st October 2020",
+        "annotations": [
+            "Anthony Ashley Cooper, social reformer, 1885",
+            "Thérèse of Lisieux, religious, 1897"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Mudd O God, who hast prepared",
+                    "plainsong Responses",
+                    "Morley Second Service",
+                    "White The Lord bless us and keep us"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 2nd October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Choristers",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "plainsong Magnificat and Nunc dimittis",
+                    "Lindley Ave Maria"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 3rd October 2020",
+        "annotations": [
+            "George Bell, Bishop of Chichester, ecumenist, peacemaker, 1958"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Clucas Responses",
+                    "Weelkes Service 'for trebles'",
+                    "Weelkes Alleluia! I heard a voice"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 4th October 2020",
+        "annotations": [
+            "Seventeenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Palestrina Missa brevis",
+                    "Tye Omnes gentes",
+                    "Byrd O sacrum convivium",
+                    "Bach Prelude and Fugue in A minor BWV 543"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Clucas Responses",
+                    "Gibbons Second Service",
+                    "Gabrieli Jubilate Deo à 8"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 5th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Muhly Oculi omnium",
+                    "plainsong Responses",
+                    "Moore First Service",
+                    "Gibbons So God loved the world"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 6th October 2020",
+        "annotations": [
+            "William Tyndale, translator of the Scriptures, Reformation martyr, 1536",
+            "St Faith and her companions, martyrs, c 287"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Clucas Responses",
+                    "Blow in F",
+                    "Purcell Thy word is a lantern"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 8th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Clucas Responses",
+                    "D Purcell in E minor",
+                    "H Purcell I was glad"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 9th October 2020",
+        "annotations": [
+            "Robert Grosseteste, Bishop of Lincoln, philosopher, scientist, 1253"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Responses",
+                    "Tallis Short Service",
+                    "Tallis Salvator mundi"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 10th October 2020",
+        "annotations": [
+            "St Paulinus, Bishop of York, missionary, 644"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Rose Responses",
+                    "Stanford in C",
+                    "Stanford Beati quorum via",
+                    "Stanford Fantasia and Toccata in D minor Op 57"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 11th October 2020",
+        "annotations": [
+            "Eighteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Mozart Missa brevis in D K194",
+                    "Stanford Beati quorum via",
+                    "Tallis O sacrum convivium",
+                    "Marchand Grand jeu (3ème livre d'orgue)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Rose Responses",
+                    "Victoria Magnificat primi toni à 4",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Byrd Sing joyfully"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 12th October 2020",
+        "annotations": [
+            "St Wilfrid of Ripon, bishop, missionary, 709",
+            "Elizabeth Fry, prison reformer, 1845",
+            "Edith Cavell, nurse, 1915"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Choristers",
+                "music": [
+                    "plainsong Iste confessor",
+                    "plainsong Responses",
+                    "Malcolm Magnificat secundi toni",
+                    "plainsong Nunc dimittis",
+                    "Mendelssohn If with all your hearts"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 13th October 2020",
+        "annotations": [
+            "THE TRANSLATION OF ST EDWARD THE CONFESSOR, KING, 1163, 1269"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Byrd Mass for five voices",
+                    "Byrd Sing joyfully",
+                    "Tye Give almes of thy goods",
+                    "Bach Pièce d'orgue BWV 572"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 15th October 2020",
+        "annotations": [
+            "Octave of the Translation of St Edward the Confessor"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Tomkins Responses",
+                    "Hooper Short Service",
+                    "Blow Salvator mundi"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 16th October 2020",
+        "annotations": [
+            "Octave of the Translation of St Edward the Confessor"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Tomkins Responses",
+                    "Farrant in A minor",
+                    "Hopper Behold, it is Christ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 17th October 2020",
+        "annotations": [
+            "Octave of the Translation of St Edward the Confessor"
+        ],
+        "services": [
+            {
+                "time": "11.30am",
+                "title": "Festival Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Padilla Missa Ego flos campi",
+                    "Monteverdi Beatus vir"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Dedication of Westminster Abbey",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Palestrina Exsultate Deo",
+                    "Tomkins Responses",
+                    "Byrd Magnificat (Second Service)",
+                    "Byrd Nunc dimittis (Great Service)",
+                    "Bruckner Locus iste"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 18th October 2020",
+        "annotations": [
+            "Nineteenth Sunday after Trinity",
+            "St Luke the Evangelist",
+            "THE DEDICATION OF WESTMINSTER ABBEY, 1269"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Byrd Mass for five voices",
+                    "Purcell I was glad",
+                    "Tallis O salutaris hostia",
+                    "Langlais Hymne d’action de grâce ‘Te Deum’ Op 5 no 3"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by The Lord Mayor of Westminster and the Mayors of the London Boroughs; The Book of Common Prayer",
+                "music": [
+                    "Palestrina Exsultate Deo",
+                    "Tomkins Responses",
+                    "Purcell in G minor",
+                    "Blow God is our hope and strength"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 19th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Mundy Magnificat and Nunc dimittis in three parts",
+                    "Tallis Mihi autem nimis"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 20th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Dunstable Magnificat secundi toni",
+                    "Tye Nunc dimittis",
+                    "Byrd Praise our Lord, all ye gentiles"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 22nd October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Morales Magnificat quinti toni",
+                    "Vento Nunc dimittis octavi toni",
+                    "Guerrero Caro mea"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 23rd October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Palestrina Magnificat quarti toni",
+                    "Vento Nunc dimittis quarti toni",
+                    "Mouton Salva nos Domine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 24th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Guerrero Magnificat primi toni",
+                    "Ortiz Nunc dimittis tertii toni",
+                    "Guerrero Dixit Dominus Petrus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 25th October 2020",
+        "annotations": [
+            "Last Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Palestrina Missa In te Domine speravi",
+                    "Palestrina Laudate Dominum",
+                    "Byrd O quam suavis",
+                    "Bach Prelude and Fugue in A BWV 536"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Muhly Oculi omnium",
+                    "Moore Responses",
+                    "Wood in E",
+                    "Martin Justorum animae",
+                    "Howells Rhapsody I in D flat"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 26th October 2020",
+        "annotations": [
+            "St Cedd, Abbot of Lastingham, Bishop of the East Saxons, 664",
+            "St Alfred the Great, King of the West Saxons, scholar, 899"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Byrd Look down, O Lord",
+                    "plainsong Responses",
+                    "Mouton Magnificat tertii toni",
+                    "Viadana Nunc dimittis tertii toni",
+                    "Verdelot Gabriel archangelus apparuit"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 27th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Lay Vicars",
+                "music": [
+                    "Byrd Look down, O Lord",
+                    "plainsong Responses",
+                    "Batten Short Service",
+                    "Byrd Benedictus (Short Service)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 29th October 2020",
+        "annotations": [
+            "James Hannington, Bishop of Eastern Equatorial Africa, martyr, 1885"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Tallis O nata lux de lumine",
+                    "Gibbons and Barnard Responses",
+                    "Noble in B minor",
+                    "Wood O thou the central orb"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 30th October 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Tallis O nata lux de lumine",
+                    "Gibbons and Barnard Responses",
+                    "Lassus Magnificat octavi toni",
+                    "Wood Nunc dimittis in B flat",
+                    "Wood Hail, gladdening light"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 31st October 2020",
+        "annotations": [
+            "Martin Luther, reformer, 1546"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Tallis O nata lux de lumine",
+                    "Gibbons and Barnard Responses",
+                    "Howells Collegium Regale",
+                    "Victoria O quam gloriosum",
+                    "Howells Rhapsody III in C sharp minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 1st November 2020",
+        "annotations": [
+            "Fourth Sunday before Advent",
+            "ALL SAINTS’ DAY"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Victoria Missa O quam gloriosum",
+                    "Victoria O quam gloriosum",
+                    "Philips O quam suavis",
+                    "Dupré Placare Christe servulis (Le tombeau de Titelouze)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Tallis O nata lux de lumine",
+                    "Gibbons and Barnard Responses",
+                    "Leighton Magdalen College Service",
+                    "Brahms Geistliches Lied",
+                    "Mendelssohn Allegro moderato e serioso (Sonata in F minor Op 65 no 1)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 2nd November 2020",
+        "annotations": [
+            "ALL SOULS’ DAY"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Fauré Requiem in D minor Op 48"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 3rd November 2020",
+        "annotations": [
+            "Richard Hooker, priest, Anglican apologist, teacher of the faith, 1600"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer; sung by the Choristers",
+                "music": [
+                    "Mendelssohn If with all your hearts",
+                    "plainsong Responses",
+                    "Sumsion in G",
+                    "Mendelssohn Lift thine eyes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 4th November 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Nave",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Harris Holy is the true light",
+                    "Leighton Responses",
+                    "Watson in E",
+                    "Mendelssohn I waited for the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 3rd December 2020",
+        "annotations": [
+            "Francis Xavier, Apostle of the Indies, missionary, 1552"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Wake, O wake",
+                    "Clucas Responses",
+                    "Purcell in E minor",
+                    "Gibbons Great Lord of lords"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 4th December 2020",
+        "annotations": [
+            "Nicholas Ferrar, deacon, founder of the community at Little Gidding, 1637",
+            "John of Damascus, monk, teacher of the faith, 749"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Wake, O wake",
+                    "Clucas Responses",
+                    "Weelkes Short Service",
+                    "Byrd Vigilate"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 6th December 2020",
+        "annotations": [
+            "Second Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Rheinberger Mass in E flat",
+                    "Brahms Wie lieblich sind deine Wohnungen",
+                    "Croce In spiritu humilitatis",
+                    "Schumann Langsam (Six fugues on BACH Op 60)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Wake, O wake",
+                    "Clucas Responses",
+                    "Tippett St John's College Service",
+                    "Bairstow Let all mortal flesh keep silence",
+                    "Dupré Prelude and Fugue in G minor Op 7 no 3"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 8th December 2020",
+        "annotations": [
+            "The Conception of the Blessed Virgin Mary"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Victoria Ave Maria",
+                    "Radcliffe Responses",
+                    "Tomkins Fifth Service",
+                    "Guerrero Ave Virgo sanctissima"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 10th December 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Prepare ye the way of the Lord",
+                    "Radcliffe Responses",
+                    "Ireland in F",
+                    "Boyce O where shall wisdom be found"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 11th December 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "The Book of Common Prayer",
+                "music": [
+                    "Clucas Prepare ye the way of the Lord",
+                    "Radcliffe Responses",
+                    "Tallis Magnificat and Nunc dimittis octavi toni",
+                    "Tallis Laudate Dominum"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 13th December 2020",
+        "annotations": [
+            "Third Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Stravinsky Mass",
+                    "anonymous Rejoice in the Lord alway",
+                    "Gibbons This is the record of John",
+                    "Hindemith Lebhaft (Sonata II)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Clucas Prepare ye the way",
+                    "Radcliffe Responses",
+                    "Howells Gloucester Service",
+                    "Gardiner Evening Hymn",
+                    "Eben Moto ostinato (Sunday Music)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 14th December 2020",
+        "annotations": [
+            "John of the Cross, poet, teacher of the faith, 1591"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Conditor alme siderum",
+                    "plainsong Responses",
+                    "Moore Second Service",
+                    "Britten Balulalow, I sing of a maiden, and This little babe (A Ceremony of Carols)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 15th December 2020",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Clucas Prepare ye the way",
+                    "Tomkins Responses",
+                    "Weelkes Service 'for trebles'",
+                    "Byrd Laetentur caeli"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 17th December 2020",
+        "annotations": [
+            "O Sapientia"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong O Wisdom",
+                    "plainsong Responses",
+                    "Morales Magnificat primi toni",
+                    "Reid Nunc dimittis tertii toni",
+                    "Tallis Audivi vocem"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 18th December 2020",
+        "annotations": [
+            "O Adonai"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong O Adonai",
+                    "plainsong Responses",
+                    "Monte Magnificat septimi toni",
+                    "Quinney Nunc dimittis tertii toni",
+                    "Dufay Conditor alme siderum"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 20th December 2020",
+        "annotations": [
+            "Fourth Sunday of Advent",
+            "O Clavis David"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "Sung by the Lay Vicars",
+                "music": [
+                    "Palestrina Missa Ave Maria",
+                    "Guerrero Ave Maria",
+                    "Byrd Ecce virgo concipiet"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong O Key of David",
+                    "plainsong Responses",
+                    "Victoria Magnificat sexti toni a 12",
+                    "plainsong Nunc dimittis",
+                    "Byrd Domine praestolamurI"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 24th December 2020",
+        "annotations": [
+            "Christmas Eve"
+        ],
+        "services": [
+            {
+                "time": "11.00pm",
+                "title": "First Eucharist of Christmas",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Victoria Missa O magnum mysterium",
+                    "Victoria O magnum mysterium",
+                    "Sheppard Verbum caro factum est"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 25th December 2020",
+        "annotations": [
+            "CHRISTMAS DAY"
+        ],
+        "services": [
+            {
+                "time": "10.30am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Mozart Missa brevis in D, K 194",
+                    "Poulenc Hodie Christus natus est",
+                    "Poulenc O magnum mysterium",
+                    "Schütz Hodie Christus natus est"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 27th December 2020",
+        "annotations": [
+            "First Sunday of Christmas"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Preacher: The Very Reverend Dr David Hoyle Dean of Westminster"
+                ]
+            }
+        ]
+    }
+]
