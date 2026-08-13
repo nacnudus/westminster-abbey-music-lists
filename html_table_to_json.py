@@ -3,7 +3,7 @@ import json
 from itertools import batched
 from bs4 import BeautifulSoup
 
-soup = BeautifulSoup(open("2023.html", encoding="utf8"), "html5lib")
+soup = BeautifulSoup(open("2024.html", encoding="utf8"), "html5lib")
 
 table = soup.select_one("table")
 
@@ -61,5 +61,5 @@ for child in children:
 
 days[0]
 
-with open('2023music.json', 'w', encoding='utf-8') as f:
+with open('2024music.json', 'w', encoding='utf-8') as f:
     json.dump(days, f, ensure_ascii=False, indent=4)
