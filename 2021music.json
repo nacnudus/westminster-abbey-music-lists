@@ -1,0 +1,3670 @@
+[
+    {
+        "date": "Sunday, 3rd January 2021",
+        "annotations": [
+            "Second Sunday of Christmas"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Preacher: The Reverend Mark Birch Minor Canon and Precentor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 10th January 2021",
+        "annotations": [
+            "The Baptism of Christ - First Sunday of Epiphany"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 17th January 2021",
+        "annotations": [
+            "Second Sunday of Epiphany"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 24th January 2021",
+        "annotations": [
+            "Third Sunday of Epiphany",
+            "Week of Prayer for Christian Unity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 31st January 2021",
+        "annotations": [
+            "Fourth Sunday of Epiphany",
+            "John Bosco, priest, founder of the Salesian Order, 1888"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 2nd February 2021",
+        "annotations": [
+            "CANDLEMAS: The Presentation of Christ in the Temple"
+        ],
+        "services": [
+            {
+                "time": "12.30pm",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 7th February 2021",
+        "annotations": [
+            "Second Sunday before Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 14th February 2021",
+        "annotations": [
+            "Sunday next before Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 17th February 2021",
+        "annotations": [
+            "Ash Wednesday"
+        ],
+        "services": [
+            {
+                "time": "12.30pm",
+                "title": "Sung Eucharist with the Imposition of Ashes",
+                "location": "Nave",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Setting: plainsong Mass XVIII 'Deus Genitor alme'",
+                    "Motets: Humfrey A Hymn to God the Father",
+                    "Gibbons O Lord, in thy wrath, rebuke me not"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 21st February 2021",
+        "annotations": [
+            "First Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 28th February 2021",
+        "annotations": [
+            "Second Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 7th March 2021",
+        "annotations": [
+            "Third Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Mass XVII",
+                    "Handel (1675–1750) Blessed are they that considereth the poor and needy (Foundling Hospital Anthem HWV 268)",
+                    "Bach Benedictus (Mass in B minor BWV 232)",
+                    "Bach Prelude and Fugue in A minor BWV 543"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 14th March 2021",
+        "annotations": [
+            "Fourth Sunday of Lent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Mass XVII",
+                    "Mendelssohn O rest in the Lord (Elijah Op 70)",
+                    "Wesley Lead me, Lord (Praise the Lord, O my soul)",
+                    "Mendelssohn Con moto maestoso (Sonata in A Op 65 no 3)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 21st March 2021",
+        "annotations": [
+            "Fifth Sunday of Lent (Passiontide begins)"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 25th March 2021",
+        "annotations": [
+            "THE ANNUNCIATION OF OUR LORD TO THE BLESSED VIRGIN MARY"
+        ],
+        "services": [
+            {
+                "time": "12.30pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Mass IX 'Cum jubilo'",
+                    "Wood Magnificat",
+                    "Palestrina Ave Maria",
+                    "Bach Fugue on the Magnificat BWV 733"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 28th March 2021",
+        "annotations": [
+            "Palm Sunday"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Blessing of Palms and Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by Lay Vicars",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 1st April 2021",
+        "annotations": [
+            "Maundy Thursday"
+        ],
+        "services": [
+            {
+                "time": "6.00pm",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by Lay Vicars",
+                "music": [
+                    "Byrd Mass for three voices",
+                    "Hendrie Ave verum corpus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 2nd April 2021",
+        "annotations": [
+            "Good Friday"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "The Solemn Liturgy of the Passion and Death of Our Lord",
+                "location": "Quire",
+                "notes": "sung by Lay Vicars",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 4th April 2021",
+        "annotations": [
+            "Easter Day"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 11th April 2021",
+        "annotations": [
+            "Second Sunday of Easter"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "",
+                "music": []
+            }
+        ]
+    },
+    {
+        "date": "Friday, 16th April 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "6.00pm",
+                "title": "Sung Requiem Eucharist",
+                "location": "Nave",
+                "notes": "sung by Lay Vicars",
+                "music": [
+                    "Preacher: The Very Reverend Dr David Hoyle Dean of Westminster"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 18th April 2021",
+        "annotations": [
+            "Third Sunday of Easter"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Mass I 'Lux et origo'",
+                    "Vaughan Williams I got me flowers (Five Mystical Songs)",
+                    "Franck Panis angelicus",
+                    "Vierne Final (Symphonie I Op 14)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 25th April 2021",
+        "annotations": [
+            "Fourth Sunday of Easter",
+            "St Mark the Evangelist",
+            "ANZAC Day"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Sheppard Christ our paschal Lamb",
+                    "Tallis Responses",
+                    "Sheppard First service",
+                    "Tallis Sermone blandoSchmidt Prelude and Fugue in D 'Hallelujah'",
+                    "Preacher: The Reverend Dr James Hawkey Canon in Residence"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 27th April 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Smith Responses",
+                    "Dyson in F",
+                    "Byrd Haec dies"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 1st May 2021",
+        "annotations": [
+            "St Philip and St James, apostles"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Smith Responses",
+                    "Mundy Magnificat secundi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Viadana Exsultate justi in Domino",
+                    "Böhm Praeludium in C"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 2nd May 2021",
+        "annotations": [
+            "Fifth Sunday of Easter"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Padilla Missa Ego flos campi",
+                    "Bassano Dic nobis Maria",
+                    "Byrd O sacrum convivium",
+                    "Bach Toccata in F BWV 540i"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Terra tremuit",
+                    "Smith Responses",
+                    "Wesley in E",
+                    "Wesley Blessed be the God and Father",
+                    "Parry Fantasia in G Op 188"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 4th May 2021",
+        "annotations": [
+            "English saints and martyrs of the Reformation era"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tomkins Responses",
+                    "Tomkins Fifth Service",
+                    "Tomkins My shepherd is the living Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 8th May 2021",
+        "annotations": [
+            "Julian of Norwich, spiritual writer, c 1417"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tomkins Responses",
+                    "Sumsion in G",
+                    "Casciolini Angelus Domini"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 9th May 2021",
+        "annotations": [
+            "Sixth Sunday of Easter"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Mass for five voices",
+                    "Palestrina Dextera Domini",
+                    "Byrd Ave verum corpus",
+                    "Buxtehude Praeludium in D BuxWV 139"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong with the Installation of The Reverend Tricia Hillas as Canon of Westminster",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Harris Holy is the true light",
+                    "Tomkins Responses",
+                    "Howells in G",
+                    "Stanford Ye choirs of new Jerusalem",
+                    "Howells Paean"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 11th May 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Morley Responses",
+                    "Morley First Service",
+                    "Palestrina Exaltabo te Domine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 13th May 2021",
+        "annotations": [
+            "Ascension Day"
+        ],
+        "services": [
+            {
+                "time": "12.30pm",
+                "title": "Sung Eucharist",
+                "location": "Nave",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Langlais Missa in simplicitate",
+                    "Bach Es will der Höchste sich ein Siegsgepräng bereiten and Ja tausend mal tausend begleiten den Wagen (Gott fähret auf mit Jauchzen BWV 43)",
+                    "Bach Benedictus (Mass in B minor BWV 232)",
+                    "Messiaen Transports de joie d'une âme devant la gloire du Christ qui est la sienne (L'ascension)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 15th May 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Morley Responses",
+                    "Marenzio Magnificat octavi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Mendelssohn I waited for the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 16th May 2021",
+        "annotations": [
+            "Seventh Sunday of Easter - Sunday after Ascension Day"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Mozart Missa in C K220 ‘Spatzenmesse’",
+                    "Gibbons O clap your hands together",
+                    "Guerrero O sacrum convivium",
+                    "Buxtehude Praeludium in C BuxWV 136"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tallis O Lord, give thy Holy Spirit",
+                    "Rose Responses",
+                    "Walmisley in D minor",
+                    "Elgar The Spirit of the Lord",
+                    "Bairstow Allegro giocoso (Sonata in E flat)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 17th May 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong with the Installation of Sir Kenneth Olisa as High Bailiff",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Responses",
+                    "Byrd Second Service",
+                    "Monteverdi Cantate Domino"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 22nd May 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Day of Pentecost",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Gibbons and Barnard Responses",
+                    "Gibbons Second Service",
+                    "Tallis Loquebantur variis linguis",
+                    "Bach Komm, heiliger Geist BWV 651"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 23rd May 2021",
+        "annotations": [
+            "Day of Pentecost (Whit Sunday)"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Palestrina Missa Dum complerentur",
+                    "Palestrina Dum complerentur",
+                    "Tallis O sacrum convivium",
+                    "Tournemire Fantaisie-Choral In Festo Pencostes (L'orgue mystique, Cycle de pâques Op 56)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tallis Loquebantur variis linguis",
+                    "Gibbons and Barnard Responses",
+                    "Hooper Full Service",
+                    "Hooper The blessed Lamb",
+                    "Gibbons Fancy in gamut flatt"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 29th May 2021",
+        "annotations": [
+            "The Restoration of the Monarchy, 1660"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of Trinity Sunday",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis Responses",
+                    "Morales Magnificat quinti toni",
+                    "Morago Nunc dimittis",
+                    "Tallis Honor virtus et potestas",
+                    "Bach Wir glauben all' an einen Gott BWV 680"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 30th May 2021",
+        "annotations": [
+            "Trinity Sunday"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Sheppard Frences Mass",
+                    "Byrd O lux beata Trinitas",
+                    "Lobo O quam suavis est Domine",
+                    "Bach Fugue in E flat BWV 552ii"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Hildegard Laus Trinitati",
+                    "Tallis Responses",
+                    "Mundy Magnificat and Nunc dimittis in three parts",
+                    "Sheppard Libera nos, salva nos"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 1st June 2021",
+        "annotations": [
+            "St Justin, martyr at Rome, c 165"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Moore First Service",
+                    "Ives In pace in idipsum"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 3rd June 2021",
+        "annotations": [
+            "Day of Thanksgiving for the Institution of Holy Communion (Corpus Christi)"
+        ],
+        "services": [
+            {
+                "time": "12.30pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Missa De angelis",
+                    "Britten Corpus Christi Carol",
+                    "Sabino O sacrum convivium",
+                    "Bach Prelude and Fugue in A BWV 536"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 5th June 2021",
+        "annotations": [
+            "St Boniface (Wynfrith) of Crediton, bishop, Apostle of Germany, martyr, 754"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Byrd and Quinney Responses",
+                    "Anerio Magnificat octavi toni",
+                    "Lassus Nunc dimittis tertii toni",
+                    "Gabrieli O sacrum convivium",
+                    "Byrd Fantasia in D minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 6th June 2021",
+        "annotations": [
+            "First Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Langlais Messe solennelle",
+                    "Philips Tibi laus, tibi gloria",
+                    "Monteverdi Adoramus te Christe",
+                    "Langlais Fête"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tallis If ye love me",
+                    "Radcliffe Responses",
+                    "Leighton Magdalen College Service",
+                    "Vaughan Williams O clap your hands",
+                    "Whitlock Hymn Prelude on 'Deo Gracias'"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 7th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Responses",
+                    "Moore Second Service",
+                    "Mendelssohn If with all your hearts"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 8th June 2021",
+        "annotations": [
+            "Thomas Ken, Bishop of Bath and Wells, nonjuror, hymn-writer, 1711"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Radcliffe Responses",
+                    "Weelkes Service 'for trebles'",
+                    "Britten A Hymn of St Columba"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 10th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Radcliffe Responses",
+                    "Dyson in F",
+                    "Byrd Prevent us, O Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 12th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Ayleward Responses",
+                    "Palestrina Magnificat quarti toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Gibbons See, see the Word is incarnate",
+                    "Frescobaldi Toccata prima"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 13th June 2021",
+        "annotations": [
+            "Second Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Rheinberger Mass in E flat",
+                    "Schütz Jauchzet dem Herren",
+                    "Croce In spiritu humilitatis",
+                    "Rheinberger Prelude and Fugue in E minor (Sonata VIII)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Keep me as the apple of an eye",
+                    "Ayleward Responses",
+                    "Howells Collegium Regale",
+                    "Stainer I saw the Lord",
+                    "Widor Intermezzo (Symphonie VI)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 14th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Dunstable Magnificat secundi toni ",
+                    "Reid Nunc dimittis tertii toni",
+                    "Byrd Beati mundo corde"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 15th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Ayleward Responses",
+                    "Purcell in B flat",
+                    "Blow Salvator mundi"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 17th June 2021",
+        "annotations": [
+            "Samuel, Canon of Westminster, 1906-13, and Henrietta Barnett, social reformers, 1913 and 1936"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Ayleward Responses",
+                    "Wood in E flat No 2",
+                    "Stanford O for a closer walk with God"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 19th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Martin Responses",
+                    "Victoria Magnificat primi toni a 4",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Weelkes Gloria in excelsis Deo",
+                    "Bach Prelude and Fugue in D minor BWV 539"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 20th June 2021",
+        "annotations": [
+            "Third Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Vaughan Williams Mass in G minor",
+                    "Vaughan Williams Antiphon",
+                    "Vaughan Williams O taste and see",
+                    "Vaughan Williams Prelude and Fugue in C minor"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tallis In manus tuas Domine",
+                    "Martin Responses",
+                    "Mundy Magnificat and Nunc dimittis in medio chori",
+                    "Harris Faire is the heaven",
+                    "Harris Moderato con moto (Sonata in A minor)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 22nd June 2021",
+        "annotations": [
+            "St Alban, first martyr of Britain, c 250"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Martin Responses",
+                    "Wise in E flat",
+                    "Purcell Jehovah quam multi sunt hostes mei"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 24th June 2021",
+        "annotations": [
+            "The Birth of St John the Baptist"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Martin Responses",
+                    "Brewer in D",
+                    "Stanford Beati quorum via integra est"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 26th June 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Leighton Responses",
+                    "Stanford in C",
+                    "Berkeley The Lord is my shepherd",
+                    "Franck Pastorale Op 19"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 27th June 2021",
+        "annotations": [
+            "Fourth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist with Confirmation",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Dove Missa brevis",
+                    "Bairstow Let all mortal flesh keep silence",
+                    "Rossini O salutaris hostia",
+                    "Vierne Final (Symphonie III)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Bairstow I sat down under his shadow",
+                    "Leighton Responses",
+                    "Leighton Second Service",
+                    "Bairstow Blessed city, heavenly Salem",
+                    "Bowen Fantasia in G minor Op 136"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 28th June 2021",
+        "annotations": [
+            "St Irenaeus, Bishop of Lyon, teacher of the faith, c 202"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "First Evensong of St Peter",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Soriano Magnificat primi toni",
+                    "Quinney Nunc dimittis tertii toni",
+                    "Byrd Tu es Petrus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 29th June 2021",
+        "annotations": [
+            "ST PETER, APOSTLE, MARTYR, AND PATRON OF WESTMINSTER ABBEY"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Mass for five voices",
+                    "Palestrina Tu es Petrus",
+                    "Byrd Ave verum corpus",
+                    "Bach Prelude and Fugue in C BWV 545"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 1st July 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong Responses",
+                    "Tallis Short Service",
+                    "Mundy O Lord, the maker of all thing"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 3rd July 2021",
+        "annotations": [
+            "St Thomas the Apostle"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Leighton Responses",
+                    "Palestrina Magnificat primi toni a 8",
+                    "Wood Nunc dimittis in B flat",
+                    "Gibbons Lord, grant grace, we humbly beseech thee",
+                    "Byrd Fantasia in G"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 4th July 2021",
+        "annotations": [
+            "Fifth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tye Missa Euge bone",
+                    "Gabrieli Jubilate Deo a 8",
+                    "Lobo O quam suavis",
+                    "Buxtehude Praeludium in D BuxWV 139"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Bairstow Jesu, the very thought of thee",
+                    "Howells St Paul's Service",
+                    "Elgar Great is the Lord",
+                    "Elgar Presto (Sonata in G Op 28)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 5th July 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Martin Westminster Service",
+                    "Berkeley O that I once past changing were"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 6th July 2021",
+        "annotations": [
+            "Thomas More, scholar, and John Fisher, Bishop of Rochester, Reformation martyrs, 1535"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Farrant Lord for thy tender mercy's sake",
+                    "Tomkins Responses",
+                    "Tomkins Fourth Service",
+                    "Tomkins O sing unto the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 8th July 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Byrd Responses",
+                    "Stanford in B flat",
+                    "Purcell O Lord God of hosts"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 9th July 2021",
+        "annotations": [
+            "Burial of Lady Margaret Beaufort, 1509"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Smith Responses",
+                    "Gray in F minor",
+                    "Harris Bring us, O Lord God"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 10th July 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Purcell Hear my prayer, O Lord",
+                    "Rose Responses",
+                    "Stanford in A",
+                    "Howells Like as the hart",
+                    "Elgar Allegro maestoso (Sonata in G Op 28)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 11th July 2021",
+        "annotations": [
+            "Sixth Sunday after Trinity",
+            "St Benedict, Abbot of Montecassino, father of western monasticism, c 550"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Vierne Messe solennelle",
+                    "Parry I was glad",
+                    "Tippett Steal away",
+                    "Widor Toccata (Symphonie V Op 42 no 1)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong with Valediction of Choristers",
+                "location": "Quire",
+                "notes": "",
+                "music": [
+                    "Purcell Hear my prayer, O Lord",
+                    "Rose Responses",
+                    "Howells Gloucester Service",
+                    "Parry Blest pair of sirens",
+                    "Walton, arr Murrill Coronation March: Crown Imperial"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 18th July 2021",
+        "annotations": [
+            "Seventh Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Queens' College, Cambridge",
+                "music": [
+                    "Byrd Mass for four voices",
+                    "Duruflé Tantum ergo sacramentum",
+                    "Bach Prelude and Fugue in G BWV 541"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Queens' College, Cambridge",
+                "music": [
+                    "Rose Responses",
+                    "Stanford in A",
+                    "Harris Faire is the heaven",
+                    "Widor Praeludium circulare: andantino (Symphonie II in D Op 13 no 2)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 20th July 2021",
+        "annotations": [
+            "St Margaret of Antioch, martyr, 4th century"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "St Margaret's Church",
+                "notes": "sung by the St Margaret's Consort",
+                "music": [
+                    "Victoria O quam gloriosum est regnum",
+                    "Clucas Responses",
+                    "Stanford in C",
+                    "Vaughan Williams Valiant-for-Truth",
+                    "Widor Finale (Symphonie II in D Op 13 no 2)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 23rd July 2021",
+        "annotations": [
+            "St Bridget of Sweden, Abbess of Vadstena, 1373"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lacock Scholars",
+                "music": [
+                    "Smith Responses",
+                    "Parsons First Service",
+                    "Weelkes When David heard that Absalom was slain"
+                ]
+            },
+            {
+                "time": "6.30pm",
+                "title": "Sung Eucharist of Our Lady of Pew",
+                "location": "Quire",
+                "notes": "sung by the Lacock Scholars",
+                "music": [
+                    "Palestrina Missa Ave Regina caelorum",
+                    "Aichinger Regina caeli a 4",
+                    "Palestrina Ave Maria",
+                    "Lassus Ave regina caelorum a 6",
+                    "Victoria Beata es virgo Maria",
+                    "Palestrina Regina caeli a 8",
+                    "Widor Toccata (Symphonie V in F Op 42 no 1)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 24th July 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Khoros",
+                "music": [
+                    "Byrd Responses",
+                    "Wood in E flat No 2",
+                    "Randall The Call",
+                    "Mendelssohn Allegro maestoso e vivace (Sonata in B flat Op 65 no 4)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 25th July 2021",
+        "annotations": [
+            "Eighth Sunday after Trinity",
+            "Eighth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Elysian Singers",
+                "music": [
+                    "Berkeley Missa brevis",
+                    "Gibbons Almighty and everlasting God",
+                    "Parry Fantasia in G Op 188i"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Elysian Singers",
+                "music": [
+                    "Ayleward Responses",
+                    "Howells St Paul's Service",
+                    "Gardiner Evening Hymn",
+                    "Howells Paean"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 30th July 2021",
+        "annotations": [
+            "William Wilberforce, social reformer, Olaudah Equiano and Thomas Clarkson, anti-slavery campaigners, 1833, 1797, and 1846"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Hesperos",
+                "music": [
+                    "Smith Responses",
+                    "Gibbons Short Service",
+                    "Dunphy Mourning into Dancing"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 31st July 2021",
+        "annotations": [
+            "Ignatius of Loyola, founder of the Society of Jesus, 1556"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Rodolfus Choir",
+                "music": [
+                    "Ayleward Responses",
+                    "Stanford in A",
+                    "Bruckner Os justi",
+                    "Stanford Postlude in D minor Op 105 no 6"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 1st August 2021",
+        "annotations": [
+            "Ninth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the King Charles Singers",
+                "music": [
+                    "Palestrina Missa brevis",
+                    "Vaughan Williams O taste and see",
+                    "Bach Fugue in B minor BWV 579"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the King Charles Singers",
+                "music": [
+                    "Clucas Responses",
+                    "Sumsion in A",
+                    "Howells O pray for the peace of Jerusalem",
+                    "McDowall Church bells beyond the stars"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 6th August 2021",
+        "annotations": [
+            "The Transfiguration of Our Lord"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Beaufort Chorale",
+                "music": [
+                    "Rose Responses",
+                    "Dyson in F",
+                    "Wesley Thou wilt keep him in perfect peace"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 7th August 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Cantica Viva",
+                "music": [
+                    "Clucas Responses",
+                    "Howells St Paul’s Service",
+                    "Bainton And I saw a new heaven",
+                    "Howells Saraband (in modo elegiaco)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 8th August 2021",
+        "annotations": [
+            "Tenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "Sung by St James’s Church Choir, Parish of Bushey",
+                "music": [
+                    "Darke in F",
+                    "Byrd Ave verum corpus",
+                    "Bach Pièce d'orgue BWV 572"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "Sung by St James’s Church Choir, Parish of Bushey",
+                "music": [
+                    "Rose Responses",
+                    "Brewer in D",
+                    "Stanford Ye choirs of new Jerusalem",
+                    "Harris Flourish for an Occasion"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 13th August 2021",
+        "annotations": [
+            "Jeremy Taylor, Bishop of Down and Connor, teacher of the faith, 1667",
+            "Octavia Hill, social reformer, 1912"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lewes Singers",
+                "music": [
+                    "Rose Responses",
+                    "Wood in D",
+                    "Purcell Thou knowest, Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 14th August 2021",
+        "annotations": [
+            "Maximilian Kolbe, friar, martyr, 1941"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lewes Singers",
+                "music": [
+                    "Rose Responses",
+                    "Leighton Second Service",
+                    "Ireland Greater Love Hath No Man"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 15th August 2021",
+        "annotations": [
+            "Eleventh Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the choir of St Mark’s, Hamilton Terrace",
+                "music": [
+                    "Kodály Missa brevis",
+                    "Gjeilo Ubi caritas et amor"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the choir of St Mark’s, Hamilton Terrace",
+                "music": [
+                    "Rose Responses",
+                    "Dyson in D",
+                    "Brahms Geistliches Lied"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 20th August 2021",
+        "annotations": [
+            "Bernard of Clairvaux, abbot, teacher of the faith, 1153"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Holst Singers",
+                "music": [
+                    "Smith Responses",
+                    "Stanford in C",
+                    "Gardiner Evening Hymn"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 21st August 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Tudeley Singers",
+                "music": [
+                    "Radcliffe Responses",
+                    "Howells Collegium Regale",
+                    "Bruckner Ave Maria"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 22nd August 2021",
+        "annotations": [
+            "Twelfth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of St Luke, Chelsea",
+                "music": [
+                    "Darke Communion Service in A minor",
+                    "Elgar Ave verum corpus"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of St Luke, Chelsea",
+                "music": [
+                    "Clucas Resposes",
+                    "Lloyd St Hild Service",
+                    "Steggall Remember now thy Creator"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 27th August 2021",
+        "annotations": [
+            "St Monica, mother of Augustine of Hippo, 387"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Caedmon Singers",
+                "music": [
+                    "Williams Responses",
+                    "Howells in E",
+                    "Andriessen O quam amabilis"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 28th August 2021",
+        "annotations": [
+            "St Augustine, Bishop of Hippo, teacher of the faith, 430"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Consort SW1",
+                "music": [
+                    "Radcliffe Responses",
+                    "Howells Gloucester Service",
+                    "Rheinberger Abendlied",
+                    "Rheinberger Intermezzo (Sonata VIII Op 132)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 29th August 2021",
+        "annotations": [
+            "Thirteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by Consort SW1",
+                "music": [
+                    "Byrd Mass for four voices",
+                    "Parsons Ave Maria",
+                    "Sweelinck Toccata in C"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by Consort SW1",
+                "music": [
+                    "Radcliffe Responses",
+                    "Stanford in A",
+                    "Harris Faire is the heaven",
+                    "Saint-Saëns Fantaisie I in E flat"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 2nd September 2021",
+        "annotations": [
+            "Lucian Tapiedi and the martyrs of Papua New Guinea, 1942"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis Why fumeth in fight",
+                    "plainsong Responses",
+                    "Soriano Magnificat primi toni",
+                    "Tye Nunc dimittis",
+                    "White The Lord bless us and keep us"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 4th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Sheppard I give you a new commandment",
+                    "Byrd and Quinney Responses",
+                    "Morales Magnificat secundi toni",
+                    "Ortiz Nunc dimittis tertii toni",
+                    "Parsons Credo quod Redemptor meus vivit"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 5th September 2021",
+        "annotations": [
+            "Fourteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.00am",
+                "title": "Matins",
+                "location": "Quire",
+                "notes": "attended in Civic State by The Lord Mayor of Westminster; sung by the Westminster Abbey Special Service Choir",
+                "music": [
+                    "arr Tippett Steal away (A Child of Our Time)",
+                    "Smith Responses",
+                    "Stanford Te Deum in B flat",
+                    "Britten Jubilate Deo in C",
+                    "arr Tippett Deep river (A Child of Our Time)",
+                    "Boëllmann Toccata (Suite gothique)"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Sheppard I give you a new commandment",
+                    "Byrd and Quinney Responses",
+                    "Parsons First Service",
+                    "Sheppard The Lord's Prayer",
+                    "Buxtehude Toccata in F BuxWV 156"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 6th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis A new commandment",
+                    "plainsong Responses",
+                    "Palestrina Magnificat quarti toni ",
+                    "Vento Nunc dimittis quarti toni",
+                    "Byrd Teach me, O Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 7th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis A new commandment",
+                    "plainsong Responses",
+                    "Soriano Magnificat septimi toni ",
+                    "Viadana Nunc dimittis tertii toni",
+                    "Byrd Unto the hills mine eyes I lift "
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 9th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Byrd Responses",
+                    "Byrd Second Service",
+                    "Parsons Ave Maria"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 11th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Farrant Lord, for thy tender mercy's sake",
+                    "Byrd Responses",
+                    "Purcell in G minor",
+                    "Gibbons Great Lord of lords",
+                    "Purcell Voluntary in A on the 100th Psalm Z721"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 12th September 2021",
+        "annotations": [
+            "Fifteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Mozart Missa in C 'Spatzenmesse' K220",
+                    "Gibbons Hosanna to the Son of David",
+                    "Bach Prelude and Fugue in C BWV 547"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Mendelssohn Herr Gott, du bist unsre Zuflucht",
+                    "Byrd Responses",
+                    "Noble in B minor",
+                    "Gardiner Evening Hymn",
+                    "Stanford Fantasia and Toccata in D minor Op 57"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 13th September 2021",
+        "annotations": [
+            "St John Chrysostom, bishop, teacher of the faith, 407"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "plainsong Magnificat quarti toni",
+                    "plainsong Nunc dimittis quinti toni",
+                    "Handel How beautiful are the feet (Messiah)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 16th September 2021",
+        "annotations": [
+            "St Ninian, Bishop of Galloway, Apostle of the Picts, c 432",
+            "Edward Bouverie Pusey, priest, Tractarian, 1882"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Radcliffe Responses",
+                    "Wood in E flat no 2",
+                    "Hooper Behold, it is Christ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 17th September 2021",
+        "annotations": [
+            "Hildegard, Abbess of Bingen, visionary, 1179"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Responses",
+                    "plainsong Magnificat on the 8th tone",
+                    "plainsong Nunc dimittis on the 1st tone",
+                    "Mendelssohn Lift thine eyes (Elijah Op 70)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 18th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Radcliffe Responses",
+                    "Marenzio Magnificat octavi toni",
+                    "Victoria Nunc dimittis tertii toni",
+                    "Mendelssohn I waited for the Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 19th September 2021",
+        "annotations": [
+            "Sixteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong with installation of Sacrist and admission of Choristers",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Pitoni Cantate Domino",
+                    "Radcliffe Responses",
+                    "Stanford in A",
+                    "Brahms Wie lieblich sind deine Wohnungen (A German Requiem)",
+                    "Stanford Postlude in D minor Op 105 no 6"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 20th September 2021",
+        "annotations": [
+            "John Coleridge Patteson, first Bishop of Melanesia, and his companions, martyrs, 1871"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Morales Magnificat primi toni",
+                    "Reid Nunc dimittis tertii toni",
+                    "Morales Ecce virgo concipiet"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 21st September 2021",
+        "annotations": [
+            "St Matthew, apostle and evangelist"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Batten O praise the Lord",
+                    "Morley Responses",
+                    "Tomkins Fifth Service",
+                    "Viadana Exsultate justi in Domino"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 23rd September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong with installation of Deputy Receiver General",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Batten O praise the Lord",
+                    "Morley Responses",
+                    "Blow in F",
+                    "Palestrina Exaltabo te Domine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 24th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "plainsong Magnificat on the seventh tone",
+                    "plainsong Nunc dimittis on the third tone",
+                    "Mendelssohn If with all your hearts (Elijah Op 70)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 25th September 2021",
+        "annotations": [
+            "Lancelot Andrewes, Bishop of Winchester, spiritual writer, Dean of Westminster, 1601–05, 1626"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Batten O praise the Lord",
+                    "Morley Responses",
+                    "Weelkes Service 'for trebles'",
+                    "Berkeley The Lord is my shepherd",
+                    "Franck Cantabile (Trois pièces)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 26th September 2021",
+        "annotations": [
+            "Seventeenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Martin Mass for Double Choir",
+                    "Palestrina Sicut cervus",
+                    "Bach Prelude in E flat BWV 552i"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong with Installation of a Lay Vicar",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Batten O praise the Lord",
+                    "Morley Responses",
+                    "Stanford in G",
+                    "Brahms Geistliches Lied",
+                    "Messiaen Joie et clarté des corps glorieux (Les corps glorieux)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 27th September 2021",
+        "annotations": [
+            "Vincent de Paul, founder of the Congregation of the Mission, 1660"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "Quinney Short Service",
+                    "Vaughan Williams The Call"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 28th September 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "First Evensong of St Michael and All Angels",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tallis O nata lux de lumine",
+                    "Smith Responses",
+                    "Stanford in B flat",
+                    "Dering Factum est silentium"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 29th September 2021",
+        "annotations": [
+            "ST MICHAEL AND ALL ANGELS"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Martin Mass for Double Choir",
+                    "Tippett Plebs angelica",
+                    "Bach Toccata in C BWV 564i"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 1st October 2021",
+        "annotations": [
+            "Anthony Ashley Cooper, 7th Earl of Shaftesbury, social reformer, 1885",
+            "Thérèse of Lisieux, religious, 1897"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by HE The High Commissioner for Cyprus; sung by the Choristers",
+                "music": [
+                    "plainsong Lucis Creator optimeplainsong Responsesplainsong Magnificat on the fourth toneplainsong Nunc dimittis on the eighth toneHurford Litany to the Holy Spirit"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 2nd October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Keep me as the apple of an eye",
+                    "Smith Responses",
+                    "Dyson in F",
+                    "MacMillan A New Song",
+                    "MacMillan Toccata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 3rd October 2021",
+        "annotations": [
+            "Eighteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Mass for Four Voices",
+                    "Byrd Ave verum corpus",
+                    "Byrd Fantasia in A minor"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Keep me as the apple of an eye",
+                    "Smith Responses",
+                    "Dyson in D",
+                    "Elgar Give unto the Lord",
+                    "Elgar Presto (Sonata in G Op 28)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 5th October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Keep me as the apple of an eye",
+                    "Smith Responses",
+                    "Morley First Service",
+                    "Philips Ave Jesu Christe"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 7th October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey; attended by a representative of the High Commissioner for Lesotho",
+                "music": [
+                    "Clucas Keep me as the apple of an eye",
+                    "Smith Responses",
+                    "Watson in E",
+                    "Parry My soul, there is a country"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 8th October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong O lux beata Trinitas",
+                    "plainsong Responses",
+                    "Magnificat tone II",
+                    "Nunc dimittis tone V",
+                    "Stanford A Song of Wisdom"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 9th October 2021",
+        "annotations": [
+            "Robert Grosseteste, Bishop of Lincoln, philosopher, scientist, 1253"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "part of the Chorister Experience Day; sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Hurford Litany to the Holy Spirit",
+                    "Tomkins Responses",
+                    "Sumsion in G",
+                    "Stanford O for a closer walk with God",
+                    "Mendelssohn Allegro maestoso (Sonata in B flat, Op 65 no 4)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 10th October 2021",
+        "annotations": [
+            "Nineteenth Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "attended by The Queen's Scholars of Westminster School; sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Rheinberger Mass in E flat",
+                    "Guerrero O sacrum convivium"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Bairstow Jesu the very thought of thee",
+                    "Tomkins Responses",
+                    "Howells Gloucester Service",
+                    "Leighton Let all the world",
+                    "Howells Rhapsody in D flat, Op 17 no 1"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 11th October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers; attended by HE The High Commissioner for Uganda",
+                "music": [
+                    "plainsong Iste confessor Domini",
+                    "plainsong Responses",
+                    "plainsong Magnificat on the fourth tone",
+                    "Burgon Nunc dimittis",
+                    "Harris King of glory, King of peace"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Wednesday, 13th October 2021",
+        "annotations": [
+            "THE TRANSLATION OF ST EDWARD THE CONFESSOR, KING, 1163, 1269"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Vaughan Williams Mass in G minor",
+                    "Stanford Beati quorum via",
+                    "Guilmant March on a theme of Handel, Op 15 no 2"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 15th October 2021",
+        "annotations": [
+            "Friday of the Octave of the Translation of St Edward the Confessor"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey and Lay Clerks of Westminster Cathedral",
+                "music": [
+                    "plainsong Iste confessor Domini",
+                    "Tomkins Responses",
+                    "Palestrina Magnificat primi toni ",
+                    "Victoria Nunc dimittis tertii toni",
+                    "MacMillan A New Song",
+                    "Widor Allegro (Symphonie VI)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 16th October 2021",
+        "annotations": [
+            "Saturday of the Octave of the Translation of St Edward the Confessor"
+        ],
+        "services": [
+            {
+                "time": "11.30am",
+                "title": "Festival Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "Thorne Mass of St Thomas"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of the Dedication of Westminster Abbey",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Bruckner Locus iste",
+                    "Rose Responses",
+                    "Howells Collegium Regale",
+                    "Howells Te Deum (Collegium Regale)",
+                    "Messiaen Apparition de l’église éternelle"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 17th October 2021",
+        "annotations": [
+            "Twentieth Sunday after Trinity",
+            "THE DEDICATION OF WESTMINSTER ABBEY, 1269"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Langlais Messe solennelle",
+                    "Parry I was glad",
+                    "Messiaen O sacrum convivium",
+                    "Demessieux Te Deum Op 11"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "attended by the Lord Mayor of Westminster and the Mayors of the London Boroughs; sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Bruckner Locus iste",
+                    "Rose Responses",
+                    "Walton Chichester Service",
+                    "Bairstow Blessed city, heavenly Salem",
+                    "Willan Urbs Jerusalem beata"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 19th October 2021",
+        "annotations": [
+            "Henry Martyn, translator of the Scriptures, missionary in India and Persia, 1812",
+            "St Frithuswith, abbess, 727"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars; attended by HE The High Commissioner for Fiji",
+                "music": [
+                    "Poulenc Ô mes très chers frères",
+                    "plainsong Responses",
+                    "Clucas Westminster Service",
+                    "Fauré Cantique de Jean Racine"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 21st October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Poulenc Ô mes très chers frères",
+                    "plainsong Responses",
+                    "Tye Short Service",
+                    "White Christe, qui lux es et dies"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 23rd October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Poulenc Ô mes très chers frères",
+                    "Moore Responses",
+                    "Moore First Service",
+                    "Martin Circumdederunt me",
+                    "Alain Première Fantaisie JA 72"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 24th October 2021",
+        "annotations": [
+            "Last Sunday after Trinity"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Palestrina Missa sine nomine a 6",
+                    "Guerrero Caro mea",
+                    "Buxtehude Praeludium in D minor BuxWV 140"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Poulenc Ô mes très chers frères ",
+                    "Moore Responses",
+                    "Howells in E",
+                    "Howells My eyes for beauty pine",
+                    "Harris Maestoso (Sonata in A minor)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 26th October 2021",
+        "annotations": [
+            "St Cedd, Abbot of Lastingham, Bishop of the East Saxons, 664",
+            "St Alfred the Great, King of the West Saxons, scholar, 899"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars; attended by HE The High Commissioner for St Vincent and the Grenadines",
+                "music": [
+                    "Mundy A new commandment give I unto you",
+                    "plainsong Responses",
+                    "Mundy Service in four parts",
+                    "Parsons Benedictus"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 28th October 2021",
+        "annotations": [
+            "St Simon and St Jude, apostles"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey; attended by the Deputy High Commissioner for Zambia",
+                "music": [
+                    "Viadana Exsultate justi in Domino",
+                    "Ayleward Responses",
+                    "Tallis Magnificat and Nunc dimittis octavi toni",
+                    "Tallis Loquebantur variis linguis"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 29th October 2021",
+        "annotations": [
+            "James Hannington, Bishop of Eastern Equatorial Africa, martyr, 1885"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers; attended by HE The High Commissioner for Antigua and Barbuda",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "Magnificat tone II",
+                    "Nunc dimittis tone III",
+                    "Purcell An Evening Hymn"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 30th October 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Weelkes All people clap your hands",
+                    "Ayleward Responses",
+                    "Wood Collegium Regale",
+                    "Britten Te Deum in C",
+                    "Vierne Final (Symphonie III Op 28)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 31st October 2021",
+        "annotations": [
+            "Fourth Sunday before Advent",
+            "Martin Luther, reformer, 1546"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Victoria Missa O quam gloriosum",
+                    "Tallis O salutaris hostia",
+                    "Bach Fugue in C BWV 564iii"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of All Saints' Day",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Victoria O quam gloriosum",
+                    "Ayleward Responses",
+                    "Praetorius Magnificat quinti toni",
+                    "Holst Nunc dimittis",
+                    "Bruckner Os justi",
+                    "Böhm Praeludium in C"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 1st November 2021",
+        "annotations": [
+            "ALL SAINTS’ DAY"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "Britten Missa brevis in D Op 63",
+                    "Fauré Ave verum corpus",
+                    "Dupré Placare Christe servulis (Le tombeau de Titelouze Op 38)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 2nd November 2021",
+        "annotations": [
+            "ALL SOULS’ DAY"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Duruflé Requiem Op 9"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 4th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey; attended by the Acting High Commissioner for Dominica",
+                "music": [
+                    "Rachmaninoff To thee, O Lord",
+                    "Martin Responses",
+                    "Brewer in D",
+                    "Wood O thou, the central orb"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 5th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong O lux beata Trinitas",
+                    "plainsong Responses",
+                    "plainsong Magnificat tone III",
+                    "plainsong Nunc dimittis tone V",
+                    "Mawby Thy word is a lamp to my feet"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 6th November 2021",
+        "annotations": [
+            "William Temple, Canon of Westminster, 1919–21, Archbishop of Canterbury, teacher of the faith, 1944"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Rachmaninoff To thee, O Lord",
+                    "Martin Responses",
+                    "Leighton Magdalen College Service",
+                    "Howells Like as the hart",
+                    "Jackson Diversion for Mixture Op 25"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 7th November 2021",
+        "annotations": [
+            "Third Sunday before Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Tye Missa Euge bone",
+                    "Tallis O sacrum convivium",
+                    "Buxtehude Praeludium in G minor BuxWV 148"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Rachmaninoff To thee, O Lord",
+                    "Martin Responses",
+                    "Schütz Deutsches Magnificat",
+                    "Wood Nunc dimittis in B flat",
+                    "Schütz Jauchzet dem Herren",
+                    "Bruhns Praeludium in E minor"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 9th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "marking the 50th anniversary of the current Abbey bells; sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Loosemore O Lord, increase my faith",
+                    "Rose Responses",
+                    "Tomkins Fourth Service",
+                    "Gibbons O clap your hands together"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 11th November 2021",
+        "annotations": [
+            "St Martin, Bishop of Tours, 397",
+            "Burial of the Unknown Warrior, 1920",
+            "Armistice Day, 1918"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Loosemore O Lord, increase my faith",
+                    "Rose Responses",
+                    "Ireland in F",
+                    "Ireland Greater Love Hath No Man"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 12th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "Magnificat tone VIII",
+                    "Nunc dimittis tone V",
+                    "Vaughan Williams The Song of the Tree of Life"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 13th November 2021",
+        "annotations": [
+            "Charles Simeon, priest, evangelical divine, 1836"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Loosemore O Lord increase my faith",
+                    "Rose Responses",
+                    "Howells St Paul's Service",
+                    "Stanford Justorum animae",
+                    "Elgar arr Grace Solemn Prelude ‘In memoriam’  (For the Fallen Op 80)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 14th November 2021",
+        "annotations": [
+            "Second Sunday before Advent",
+            "Remembrance Sunday"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Loosemore O Lord, increase my faith",
+                    "Rose Responses",
+                    "Gray in F minor",
+                    "Howells Take him, earth, for cherishing",
+                    "Bach Fantasia in C minor BWV 562i"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 15th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Dyson in C minor",
+                    "Duruflé Pie Jesu (Requiem Op 9)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 16th November 2021",
+        "annotations": [
+            "St Margaret, Queen of Scotland, philanthropist, reformer of the Church, 1093",
+            "Obit of Henry III"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Byrd Look down, O Lord",
+                    "plainsong Responses",
+                    "Sumsion in G",
+                    "Walker I will lift up mine eyes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 18th November 2021",
+        "annotations": [
+            "St Elizabeth of Hungary, Princess of Thuringia, philanthropist, 1231"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Weelkes All people, clap your hands",
+                    "Radcliffe Responses",
+                    "Stanford in C",
+                    "Wood Hail, gladddening light"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 19th November 2021",
+        "annotations": [
+            "St Hilda, Abbess of Whitby, 680"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Te lucis ante terminum",
+                    "plainsong Responses",
+                    "Magnificat tone I",
+                    "Nunc dimittis tone II",
+                    "Parry Long since in Egypt's plenteous land"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 20th November 2021",
+        "annotations": [
+            "St Edmund, King of the East Angles, martyr, 869"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "First Evensong of Christ the King",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis Why fum'th in fight",
+                    "Byrd and Quinney Responses",
+                    "Wood in E",
+                    "Wood Great Lord of lords"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 21st November 2021",
+        "annotations": [
+            "Christ the King"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Guerrero Missa Simile est regnum caelorum",
+                    "Palestrina Rex pacificus magnificatus est",
+                    "Gigout Grand choeur dialogué"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Tallis Why fum'th in fight",
+                    "Byrd and Quinney Responses",
+                    "Ives Westminster Service",
+                    "Jackson In all his works",
+                    "Whitlock Fanfare (Four Extemporisations)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 23rd November 2021",
+        "annotations": [
+            "St Clement, Bishop of Rome, martyr, c 100"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Barcrofte O almighty God",
+                    "Radcliffe Responses",
+                    "Tomkins Fifth Service",
+                    "Byrd Teach me, O Lord"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 25th November 2021",
+        "annotations": [
+            "St Catherine of Alexandria, martyr, c 305"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Barcrofte O almighty God",
+                    "Radcliffe Responses",
+                    "Murrill in E",
+                    "Byrd Sing joyfully"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 26th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Lucis Creator optime",
+                    "plainsong Responses",
+                    "Magnificat tone IV",
+                    "Nunc dimittis tone V",
+                    "Mendelssohn Lift thine eyes"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 27th November 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Barcrofte O almighty God",
+                    "Radcliffe Responses",
+                    "Mathias Jesus College Service",
+                    "Britten A Hymn of St Columba",
+                    "Eben Moto ostinato (Sunday Music)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 28th November 2021",
+        "annotations": [
+            "First Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Byrd Mass for four voices",
+                    "Victoria Ecce Dominus veniet",
+                    "Widor Moderato (Symphonie gothique Op 70)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 2nd December 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Wake, O wake!",
+                    "Leighton Responses",
+                    "Blow in F",
+                    "Purcell O God, thou art my God"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 3rd December 2021",
+        "annotations": [
+            "Francis Xavier, Apostle of the Indies, missionary, 1552"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Conditor alme siderum",
+                    "plainsong Responses",
+                    "Magnificat tone VIII",
+                    "Nunc dimittis tone I",
+                    "Mendelssohn Veni Domine (Drei Motetten Op 39)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 4th December 2021",
+        "annotations": [
+            "Nicholas Ferrar, deacon, founder of the community at Little Gidding, 1637",
+            "John of Damascus, monk, teacher of the faith, 749"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Wake, O wake!",
+                    "Leighton Responses",
+                    "Byrd Great Service",
+                    "Byrd Vigilate",
+                    "Bach Wachet auf, ruft uns die Stimme BWV 645"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 5th December 2021",
+        "annotations": [
+            "Second Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Vaughan Williams Mass in G minor",
+                    "Bruckner Virga Jesse",
+                    "Bach Fantasia and Fugue in G minor BWV 542"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Wake, O wake!",
+                    "Leighton Responses",
+                    "Wesley in E",
+                    "Elgar Benedictus in F",
+                    "Dupré Le monde dans l'attente du Sauveur (Symphonie-Passion Op 23)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 6th December 2021",
+        "annotations": [
+            "St Nicholas, Bishop of Myra, c 326"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong Conditor alme siderum",
+                    "plainsong Responses",
+                    "Martin Westminster Service",
+                    "Britten There is no rose (A Ceremony of Carols)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 7th December 2021",
+        "annotations": [
+            "St Ambrose, Bishop of Milan, teacher of the faith, 397"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Prepare ye the way of the Lord",
+                    "Morley Responses",
+                    "Purcell in G minor",
+                    "Purcell O Lord God of hosts"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Thursday, 9th December 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "Dufay Conditor alme siderum",
+                    "plainsong Responses",
+                    "Mundy Service in three parts ",
+                    "Mundy Sive vigilem"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 10th December 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers; attended by HE The High Commissioner for Kenya",
+                "music": [
+                    "plainsong Conditor alme siderum",
+                    "plainsong Responses",
+                    "Magnificat tone VII",
+                    "Nunc dimittis tone VIII",
+                    "Britten As Dew in April (A Ceremony of Carols)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 11th December 2021",
+        "annotations": [],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Prepare ye the way of the Lord",
+                    "Morley Responses",
+                    "Leighton Second Service",
+                    "Martin A Song of the New Jerusalem",
+                    "Dupré Prelude and Fugue in F minor Op 7 no 2"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 12th December 2021",
+        "annotations": [
+            "Third Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Mozart Missa brevis in D K194",
+                    "Bairstow Let all mortal flesh keep silence",
+                    "Bach Nun freut euch, liebe Christen, gemein BWV 734"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Clucas Prepare ye the way of the Lord",
+                    "Morley Responses",
+                    "Palestrina Magnificat primi toni",
+                    "Gabrieli Nunc dimittis a 14",
+                    "Gibbons This is the record of John",
+                    "Reger Wachet auf, ruft uns die Stimme Op 67 no 43"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 18th December 2021",
+        "annotations": [
+            "O Adonai"
+        ],
+        "services": [
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong O Adonaï",
+                    "Tallis Responses",
+                    "Guerrero Magnificat secundi toni",
+                    "plainsong Nunc dimittis",
+                    "Pärt O Adonai",
+                    "Bach Fugue on the Magnificat BWV 733"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 19th December 2021",
+        "annotations": [
+            "Fourth Sunday of Advent"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Palestrina Missa Ecce ego Joannes",
+                    "Martin O Oriens",
+                    "Buxtehude Magnificat primi toni BuxWV 203"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Lay Vicars",
+                "music": [
+                    "plainsong O Root of Jesse",
+                    "Tallis Responses",
+                    "Victoria Magnificat sexti toni a 12",
+                    "Quinney Nunc dimittis tertii toni",
+                    "Palestrina Canite tuba in Sion",
+                    "Peeters Toccata, Fugue, et Hymne sur Ave Maris Stella Op 28"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Monday, 20th December 2021",
+        "annotations": [
+            "O Clavis David"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong O Key of David",
+                    "plainsong Responses",
+                    "Quinney Magnificat (Short Service)",
+                    "Burgon Nunc dimittis",
+                    "Mendelssohn Veni Domine (Drei Motetten Op 39)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Tuesday, 21st December 2021",
+        "annotations": [
+            "O Oriens"
+        ],
+        "services": [
+            {
+                "time": "5.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the Choristers",
+                "music": [
+                    "plainsong O Dayspring",
+                    "plainsong Responses",
+                    "Robinson in C",
+                    "Hadley I sing of a maiden"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Friday, 24th December 2021",
+        "annotations": [
+            "Christmas Eve"
+        ],
+        "services": [
+            {
+                "time": "11.00pm",
+                "title": "First Eucharist of Christmas (Midnight Mass)",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Mozart Coronation Mass K317",
+                    "Scheidt Puer natus in Bethlehem",
+                    "Dering Quem vidistis pastores",
+                    "Messiaen Dieu parmi nous (La Nativité du Seigneur)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Saturday, 25th December 2021",
+        "annotations": [
+            "CHRISTMAS DAY"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by the Choir of Westminster Abbey",
+                "music": [
+                    "Palestrina Missa Hodie Christus natus est",
+                    "Poulenc Hodie Christus natus est",
+                    "Sheppard Verbum caro factum est",
+                    "Widor Final (Symphonie VI Op 42 no 2)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "Sunday, 26th December 2021",
+        "annotations": [
+            "First Sunday of Christmas"
+        ],
+        "services": [
+            {
+                "time": "11.15am",
+                "title": "Sung Eucharist",
+                "location": "Quire",
+                "notes": "sung by a cantor",
+                "music": [
+                    "plainsong Missa IX Cum jubilo",
+                    "Warlock Bethlehem Down",
+                    "Bach Pièce d'orgue BWV 572"
+                ]
+            },
+            {
+                "time": "3.00pm",
+                "title": "Evensong",
+                "location": "Quire",
+                "notes": "sung by the St Stephen Chorale",
+                "music": [
+                    "Smith Responses",
+                    "Stanford in C",
+                    "Berlioz L'Adieu des Bergers (L'Enfance du Christ)",
+                    "Vierne Final (Symphonie I)"
+                ]
+            }
+        ]
+    }
+]
